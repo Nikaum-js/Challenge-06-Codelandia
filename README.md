@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/Challenge-06-Codelandia?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/Challenge-06-Codelandia?style=for-the-badge)
 
-<img src="./assets/img/flexblog.PNG" alt="exemplo imagem">
+<img src="./img.PNG" alt="exemplo imagem">
 
 > Esse é um projeto foi do curso de FlexBox da Origamid e fiz ele para aperfeiçoar as minhas habilidades com os conceitos de FlexBox
 >
