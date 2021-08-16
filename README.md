@@ -5,12 +5,13 @@
 
 <img src="./img.PNG" alt="exemplo imagem">
 
-> Esse é um projeto foi do curso de FlexBox da Origamid e fiz ele para aperfeiçoar as minhas habilidades com os conceitos de FlexBox
+> Esse é um projeto é a conclusão de um desafio do servidor da codelandia.
 >
 ## Linguagens utilizadas
 
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [SASS](https://sass-lang.com/)
 
 ## 🤝 Colaboradores
 
