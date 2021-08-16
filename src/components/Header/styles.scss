@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+
+  h2 {
+    font-family: B612, sans-serif;
+    font-weight: 700;
+    line-height: 1.5em;
+    font-size: 1.25rem;
+    padding: 2rem 0;
+  }
+
+  h1 {
+    font-family: B612, sans-serif;
+    font-weight: 900;
+    font-size: 6rem;
+    line-height: 7.25rem;
+  }
+}
